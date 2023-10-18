@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<h1> its burger search </h1>
+<div>
+    <form method="GET">
+        <input type="text" name="keyword">
+        <button type="submit">검색</button>
+    </form>
+</div>
+{% for burger in burgers %}
+<div>
+    {{ burger.name }}
+</div>
+{% endfor %}
+</body>
+</html>
