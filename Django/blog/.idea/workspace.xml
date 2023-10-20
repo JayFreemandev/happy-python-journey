@@ -1,22 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="756932e6-79ac-4b2b-a03d-bf01f4b68d23" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/insta/.idea/dataSources/7b8b62f5-67c5-4706-8011-ce8e24cbe746.xml" beforeDir="false" afterPath="$PROJECT_DIR$/insta/.idea/dataSources/7b8b62f5-67c5-4706-8011-ce8e24cbe746.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/insta/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/insta/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="7bd033b8-196d-4b49-937b-32c9f1a35649" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
-  </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 7
-}</component>
-  <component name="ProjectId" id="2Wz5lnjMWLm6GnjySX89tbfbufj" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2X1swL7nf3modHhi7aoL3yNF20B" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -26,7 +20,6 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
     "last_opened_file_path": "D:/Happy-Python-Journey/Django/pythonProject/insta",
     "vue.rearranger.settings.migration": "true"
   }
@@ -34,17 +27,13 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="756932e6-79ac-4b2b-a03d-bf01f4b68d23" name="Changes" comment="" />
-      <created>1697722723356</created>
+      <changelist id="7bd033b8-196d-4b49-937b-32c9f1a35649" name="Changes" comment="" />
+      <created>1697808162743</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1697722723356</updated>
-      <workItem from="1697722724432" duration="41000" />
-      <workItem from="1697808216990" duration="20000" />
+      <updated>1697808162743</updated>
+      <workItem from="1697808162826" duration="22000" />
     </task>
     <servers />
-  </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
   </component>
 </project>
