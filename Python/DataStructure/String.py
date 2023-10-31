@@ -17,3 +17,8 @@ print(characters)
 
 # list to char
 print(list("be happy"))
+
+# str to reverse
+print(x[::-1])
+
+print(x[:])
